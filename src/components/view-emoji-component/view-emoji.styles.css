@@ -1,0 +1,9 @@
+.view-emoji-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  position: relative;
+  min-width: 200px;
+}
